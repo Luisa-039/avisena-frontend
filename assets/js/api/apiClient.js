@@ -5,7 +5,7 @@
 // La importamos para usarla en caso de un error 401.
 import { authService } from './auth.service.js';
 
-const API_BASE_URL = 'https://backend-avisena.onrender.com';
+const API_BASE_URL = 'https://backend-avisena.vercel.app';
 
 /**
  * Cliente central para realizar todas las peticiones a la API.
